@@ -1,0 +1,10 @@
+logging:
+  level:
+    org:
+      hibernate: ERROR
+      springframework:
+        web: Debug
+    root: Warn
+spring:
+  main:
+    banner-mode: 'off'
